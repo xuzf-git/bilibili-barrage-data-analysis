@@ -12,7 +12,7 @@
 
    在B站爬取了1000多个视频的弹幕数据，将其分成16个视频类别，数据分布如下图：
 
-![image-20201220125657925](./images/data_distribution.png)
+<div align=center> ![image-20201220125657925](./images/data_distribution.png) </div>
 
 ### 1.2 数据预处理以及特征工程
 
@@ -49,4 +49,4 @@
 
 通过特征工程中构建的基于词频的词袋模型，我们可以获知视频弹幕的高频词语，将这些词语进行筛选，通过数据可视化的方式构建词云标签。
 
-<img src="./images/WordCloudDefautColors.png" style="zoom:50%;" />
+<div align=center> <img src="./images/WordCloudDefautColors.png" style="zoom:50%;" /> </div>
