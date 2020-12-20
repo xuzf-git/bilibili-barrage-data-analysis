@@ -12,7 +12,7 @@
 
    在B站爬取了1000多个视频的弹幕数据，将其分成16个视频类别，数据分布如下图：
 
-<div align=center> ![image-20201220125657925](./images/data_distribution.png) </div>
+<div align=center> <img src="./images/data_distribution.png" /> </div>
 
 ### 1.2 数据预处理以及特征工程
 
